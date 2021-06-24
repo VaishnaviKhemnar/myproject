@@ -1,0 +1,6337 @@
+##-----Question-----##
+ How many types of inheritance ?
+
+##ans1##
+three
+
+##ans2##
+four
+
+##ans3##
+more then five
+
+##ans4##
+five
+
+##ans5##
+two
+
+##correct##
+4
+
+
+##-----Question-----##
+Give different types of inheritance ?
+
+##ans1##
+single,multiple. 
+
+##ans2##
+double,single,multiple,multilevel. 
+
+##ans3##
+hybrid,single,multiple,double.
+
+##ans4##
+multilevel,single,multiple.
+
+##ans5##
+single, multilevel,multiple,hierarchical,hybrid.
+
+##correct##
+5
+
+##-----Question-----##
+Give four name of object oriented language ?
+
+
+##ans1##
+c++, java , javascript,unix
+
+
+##ans2##
+c++, java , linux,.net
+
+
+##ans3##
+unix,c++, java , .net
+
+
+##ans4##
+c++, java , javascript, .net
+
+
+##ans5##
+c++, java , linux,unix
+
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following is not a type of constructor?
+
+
+##ans1##
+Copy constructor
+
+
+##ans2##
+Friend constructor
+
+##ans3##
+Default constructor
+
+##ans4##
+Parameterized constructor
+
+##ans5##
+
+##correct##
+2
+
+##-----Question-----##
+What  do you mean by inheritance ?
+
+The mechanishm of deriving a new class from an ------  one is called inheritance
+
+##ans1##
+new
+
+##ans2##
+small
+
+##ans3##
+ old 
+
+##ans4##
+greater 
+
+##ans5##
+bigger
+
+##correct##
+3
+
+##-----Question-----##
+Which of the following concepts means wrapping up of data and functions together?
+
+
+##ans1##
+Abstraction
+
+##ans2##
+Encapsulation
+
+##ans3##
+ Inheritance
+
+##ans4##
+Polymorphism
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following provides a reuse mechanism?
+
+
+
+##ans1##
+Abstraction
+
+##ans2##
+Inheritance
+
+##ans3##
+Dynamic binding
+
+##ans4##
+Encapsulation
+ 
+
+##ans5##
+
+
+
+
+##correct##
+2
+
+
+
+##-----Question-----##
+#include<iostream.h>
+main()
+{
+	float no1,no2,sum,avg;
+	cout<<"Enter two numbers :"  ; 
+ 	cin>>no1;
+	cin>>no2;
+
+	sum=no1+no2;
+	avg=sum/2;
+	
+	cout<<"Sum=  " << sum <<"\n";
+	cout<<"Average=  " << avg <<"\n";
+}
+
+What will be the output? 
+
+##ans1##
+Enter two numbers: 7 7, sum=14, Average=7 
+
+
+##ans2##
+Enter two numbers: 7 7, sum=15, Average=7 
+
+
+##ans3##
+Enter two numbers: 7 7, sum=19, Average=7 
+
+
+##ans4##
+Enter two numbers: 7 7, sum=24, Average=7 
+
+##ans5##
+Enter two numbers: 7 7, sum=14, Average=8 
+
+
+##correct##
+1
+
+##-----Question-----##
+Which of the following cannot be friend?
+
+
+##ans1##
+Function
+
+##ans2##
+Class
+
+##ans3##
+Object
+
+##ans4##
+Operator function
+
+##ans5##
+
+
+##correct##
+3
+
+
+##-----Question-----##
+Which of the following concepts of OOPS means exposing only necessary information to client?
+
+
+##ans1##
+Encapsulation
+
+##ans2##
+Abstraction
+ 
+##ans3##
+Data hiding
+
+##ans4##
+Data binding
+
+##ans5##
+
+ 
+
+##correct##
+3
+
+##-----Question-----##
+cout is a/an __________ .
+
+
+##ans1##
+operator
+
+##ans2##
+function
+
+
+##ans3##
+object
+
+
+##ans4##
+macro
+
+
+##ans5##
+
+
+##correct##
+3
+
+##-----Question-----##
+What is Structure?
+
+Structure is collection of variable of----------data type.
+
+
+##ans1##
+Structure is collection of variable of one type data type.
+
+##ans2##
+Structure is collection of variable of single data type.
+
+
+##ans3##
+Structure is collection of variable of simple data type.
+
+
+##ans4##
+Structure is collection of variable of different data type.
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+List types of that can be performed data structure? 
+
+
+##ans1##
+traversing,searching,inserting,deleting,sorting
+
+##ans2##
+inserting,deleting,sorting,initating
+ 
+
+##ans3##
+traversing,searching,initating
+
+
+
+##ans4##
+inserting,deleting,sorting,destroy
+
+##ans5##
+
+##correct##
+1
+
+##-----Question-----##
+what is encapsulation?
+
+wrapping data and function in to--------------unit  ?
+
+
+##ans1##
+double
+
+##ans2##
+multiple
+
+##ans3##
+relational 
+
+##ans4##
+single
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+Give types of polymorphism?
+
+
+
+##ans1##
+default&copy
+
+
+##ans2##
+runtime&default
+
+
+##ans3##
+compile&runtime 
+
+
+##ans4##
+default&compile
+
+
+##ans5##
+
+##correct##
+3
+
+
+
+##-----Question-----##
+
+Which of the following statement is correct?
+
+
+##ans1##
+Class is an instance of object.
+
+##ans2##
+Object is an instance of a class.
+
+##ans3##
+Class is an instance of data type.
+
+##ans4##
+Object is an instance of data type.
+
+##ans5##
+
+
+##correct##
+2
+
+
+
+##-----Question-----##
+
+Which of the following access specifier is used as a default in a class definition?
+
+
+##ans1##
+protected
+
+##ans2##
+public
+
+##ans3##
+private	
+
+##ans4##
+friend
+
+##ans5##
+
+
+##correct##
+3
+
+##-----Question-----##
+Which of the following statements is correct in C++?
+
+##ans1##
+Classes cannot have data as protected members.
+
+##ans2##
+Structures can have functions as members.
+
+##ans3##
+Class members are public by default.
+
+##ans4##
+Structure members are private by default.
+
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following keyword is used to overload an operator?
+
+##ans1##
+overload
+
+##ans2##
+operator
+
+
+##ans3##
+friend
+
+##ans4##
+override
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+
+Which of the following header file includes definition of cin and cout?
+
+##ans1##
+istream.h
+
+##ans2##
+ostream.h
+
+##ans3##
+iomanip.h
+
+##ans4##
+iostream.h
+
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+
+Which of the following is not a type of inheritance?
+
+##ans1##
+Multiple
+
+##ans2##
+Multilevel
+
+##ans3##
+Distributive
+
+##ans4##
+Hierarchical
+
+##ans5##
+
+##correct##
+3
+##-----Question-----##
+Which of the following is the correct class of the object cout?
+
+##ans1##
+iostream
+
+##ans2##
+istream
+
+##ans3##
+ostream
+
+##ans4##
+ifstream
+
+##ans5##
+
+##correct##
+3
+
+##-----Question-----##
+How "Late binding" is implemented in C++?
+
+##ans1##
+Using C++ tables
+
+##ans2##
+Using Virtual tables
+
+##ans3##
+Using Indexed virtual tables 
+
+##ans4##
+Using polymorphic tables
+
+##ans5##
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following concept of oops allows compiler to insert arguments in a function call if it is not specified?
+
+
+##ans1##
+Call by value
+
+##ans2##
+Call by reference
+
+##ans3##
+Default argument
+
+##ans4##
+Call by pointer
+
+##ans5##
+
+
+##correct##
+3
+
+
+##-----Question-----##
+
+Which of the following type of class allows only one object of it to be created?
+
+
+##ans1##
+Virtual class
+
+##ans2##
+Abstract class
+
+##ans3##
+Singleton class
+
+##ans4##
+Friend class
+
+##ans5##
+
+##correct##
+3
+
+##-----Question-----##
+
+Which of the following is correct about function overloading?
+
+##ans1##
+The types of arguments are different.
+
+##ans2##
+The order of argument is different.
+
+##ans3##
+The number of argument is same.
+
+##ans4##
+Both A and B.
+
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following is an abstract data type?
+
+##ans1##
+int
+
+##ans2##
+double
+
+##ans3##
+string
+
+##ans4##
+Class
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following concepts means determining at runtime what method to invoke?
+
+
+##ans1##
+Data hiding
+
+##ans2##
+Dynamic Typing
+
+##ans3##
+Dynamic binding
+
+##ans4##
+Dynamic loading
+
+##ans5##
+
+##correct##
+3
+
+##-----Question-----##
+Which of the following statements is correct?
+
+##ans1##
+Base class pointer cannot point to derived class.
+
+##ans2##
+Derived class pointer cannot point to base class.
+
+##ans3##
+Pointer to derived class cannot be created.
+
+##ans4##
+Pointer to base class cannot be created.
+
+##ans5##
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following is not the member of class?
+
+
+##ans1##
+Static function
+
+##ans2##
+Friend function 
+
+##ans3##
+Const function 
+
+##ans4##
+Virtual function
+
+##correct##
+2
+ 
+
+##-----Question-----##
+List type linked list?
+
+##ans1##
+singly,doubly,default.
+ 
+
+##ans2##
+singly,doubly,link ,globaly.
+ 
+
+##ans3##
+default,doubly,circular,link. 
+
+
+##ans4##
+singly,doubly,circular,link. 
+
+
+##ans5##
+default,circular,link. 
+ 
+
+##correct##
+4
+
+##-----Question-----##
+Name of the different type of  methods of sorting?
+
+##ans1##
+bubble,heap,radix,selection,default
+
+##ans2##
+creation,bubble,heap,radix,merge
+
+
+##ans3##
+radix,selection,merge,default
+
+
+##ans4##
+bubble,heap,radix,selection,merge
+
+
+##ans5##
+heap,radix,selection,merge,copy
+ 
+
+##correct##
+4
+
+##-----Question-----##
+What is Structure?
+
+Structure is collection of variable of----------data type.
+
+
+##ans1##
+Structure is collection of variable of one type data type.
+
+##ans2##
+Structure is collection of variable of single data type.
+
+
+##ans3##
+Structure is collection of variable of simple data type.
+
+
+##ans4##
+Structure is collection of variable of different data type.
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+List types of that can be performed data structure? 
+
+
+##ans1##
+traversing,searching,inserting,deleting,sorting
+
+##ans2##
+inserting,deleting,sorting,initating
+ 
+
+##ans3##
+traversing,searching,initating
+
+
+
+##ans4##
+inserting,deleting,sorting,destroy
+
+##ans5##
+
+##correct##
+1
+
+##-----Question-----##
+what is encapsulation?
+
+wrapping data and function in to--------------unit  ?
+
+
+##ans1##
+double
+
+##ans2##
+multiple
+
+##ans3##
+relational 
+
+##ans4##
+single
+
+##ans5##
+
+
+##correct##
+4
+
+
+##-----Question-----##
+How many types of inheritance ?
+
+##ans1##
+one
+
+##ans2##
+three
+
+##ans3##
+four
+
+##ans4##
+more then five
+
+##ans5##
+five
+##correct##
+5
+
+##-----Question-----##
+
+How many instances of an abstract class can be created?
+
+
+##ans1##
+1
+
+##ans2##
+5
+##ans3##
+13
+
+##ans4##
+0
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following concepts provides facility of using object of one class inside another class?
+
+
+##ans1##
+Encapsulation
+
+##ans2##
+Abstraction
+
+##ans3##
+Composition
+
+##ans4##
+Inheritance
+
+##ans5##
+
+
+##correct##
+3
+
+##-----Question-----##
+
+Which of the following correctly describes overloading of functions?
+
+##ans1##
+Virtual polymorphism
+
+##ans2##
+Transient polymorphism
+
+##ans3##
+ Ad-hoc polymorphism
+
+##ans4##
+Pseudo polymorphism
+
+
+##ans5##
+
+
+##correct##
+3
+##-----Question-----##
+How many types of inheritance ?
+
+##ans1##
+one
+
+##ans2##
+three
+
+##ans3##
+four
+
+##ans4##
+more then five
+
+##ans5##
+five
+
+##correct##
+5
+
+##-----Question-----##
+Which of the following cannot be used with the keyword virtual?
+
+
+##ans1##
+class
+
+##ans2##
+member functions
+ 	
+##ans3##
+constructor
+
+##ans4##
+destructor
+
+##ans5##
+
+##correct##
+3
+
+##-----Question-----##
+Which of the following ways are legal to access a class data member using this pointer?
+
+##ans1##
+this->x
+
+##ans2##
+this.x
+
+##ans3##
+*this.x
+
+##ans4##
+*this-x
+
+##ans5##
+
+
+##correct##
+1
+
+##-----Question-----##
+Which of the following are available only in the class hierarchy chain?
+
+
+##ans1##
+Public data members
+
+##ans2##
+Private data members
+
+##ans3##
+Protected data members
+
+##ans4##
+Member functions
+
+
+##ans5##
+ 
+
+##correct##
+3
+
+##-----Question-----##
+In which of the following a virtual call is resolved at the time of compilation?
+
+
+##ans1##
+From inside the destructor.
+
+##ans2##
+From inside the constructor.
+
+##ans3##
+ From inside the main().
+
+##ans4##
+Both A and B.
+
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following statements regarding inline functions is correct?
+
+
+##ans1##
+ It speeds up execution
+
+##ans2##
+It slows down execution.
+
+##ans3##
+It increases the code size.
+
+##ans4##
+Both A and C.
+
+##ans5##
+ 
+
+##correct##
+4
+
+##-----Question-----##
+Which one of the following is the correct way to declare a pure virtual function?
+
+
+##ans1##
+virtual void Display(void){0};
+
+##ans2##
+virtual void Display = 0;
+
+##ans3##
+virtual void Display(void) = 0;
+
+##ans4##
+void Display(void) = 0;
+
+##ans5##
+
+##correct##
+3
+
+
+
+##-----Question-----##
+What will happen if a class is not having any name?
+
+##ans1##
+It cannot have a destructor.
+
+##ans2##
+It cannot have a constructor.
+
+##ans3##
+It is not allowed.
+
+##ans4##
+Both A and B.
+
+
+##ans5##
+
+
+##correct##
+4
+##-----Question-----##
+Which inheritance type is used in the class given below?
+class A : public X, public Y
+{}
+
+
+
+##ans1##
+Multilevel inheritance
+
+##ans2##
+Multiple inheritance
+
+##ans3##
+Hybrid inheritance
+
+##ans4##
+Hierarchical Inheritance
+
+##ans5##
+
+##correct##
+2
+##-----Question-----##
+
+Which of the following is an invalid visibility label while inheriting a class?
+
+##ans1##
+public
+
+##ans2##
+private
+
+##ans3##
+protected
+
+##ans4##
+friend
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+Which one of the following options is correct?
+
+##ans1##
+Friend function can access public data members of the class. 
+
+##ans2##
+Friend function can access protected data members of the class.
+
+##ans3## 
+Friend function can access private data members of the class.
+
+##ans4##
+All of the above.
+
+##ans5##
+ 
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following is used to make an abstract class?
+
+##ans1##
+Declaring it abstract using static keyword.
+
+##ans2##
+Declaring it abstract using virtual keyword.
+
+##ans3##
+Making at least one member function as virtual function.
+
+##ans4##
+Making at least one member function as pure virtual function.
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+What is correct about the static data member of a class?
+
+##ans1##
+A static member function can access only static data members of a class.
+
+##ans2##
+A static data member is shared among all the object of the class.
+
+##ans3##
+A static data member is shared among all the object of the class.
+
+##ans4##
+Both A and B.
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following statement is correct?
+
+##ans1##
+Class is an instance of object.
+
+##ans2##
+Object is an instance of a class.
+
+##ans3##
+Class is an instance of data type.
+
+##ans4##
+Object is an instance of data type.
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+what is encapsulation?
+
+wrapping data and function in to--------------unit  ?
+
+
+##ans1##
+double
+
+##ans2##
+multiple
+
+##ans3##
+relational 
+
+##ans4##
+single
+
+##ans5##
+
+
+##correct##
+4
+
+
+
+##-----Question-----##
+Which of the following statements is correct?
+
+##ans1##
+Base class pointer cannot point to derived class.
+
+##ans2##
+Derived class pointer cannot point to base class.
+
+##ans3##
+Pointer to derived class cannot be created.
+
+##ans4##
+Pointer to base class cannot be created.
+
+##ans5##
+
+##correct##
+2
+
+##-----Question-----##
+Give different types of inheritance ?
+
+##ans1##
+single,multiple. 
+
+##ans2##
+double,single,multiple,multilevel. 
+
+
+##ans3##
+hybrid,single,multiple,double.
+
+ 
+
+##ans4##
+multilevel,single,multiple.
+
+
+##ans5##
+single, multilevel,multiple,hierarchical,hybrid.
+
+##correct##
+5
+
+
+##-----Question-----##
+ How many types of inheritance ?
+
+##ans1##
+three
+
+##ans2##
+four
+
+##ans3##
+more then five
+
+##ans4##
+five
+
+##ans5##
+two
+
+##correct##
+4
+
+
+##-----Question-----##
+Give different types of inheritance ?
+
+##ans1##
+single,multiple. 
+
+##ans2##
+double,single,multiple,multilevel. 
+
+
+##ans3##
+hybrid,single,multiple,double.
+
+##ans4##
+multilevel,single,multiple.
+
+
+##ans5##
+single, multilevel,multiple,hierarchical,hybrid.
+
+##correct##
+5
+
+##-----Question-----##
+Give four name of object oriented language ?
+
+
+##ans1##
+c++, java , javascript,unix
+
+
+##ans2##
+c++, java , linux,.net
+
+
+##ans3##
+unix,c++, java , .net
+
+
+##ans4##
+c++, java , javascript, .net
+
+
+##ans5##
+c++, java , linux,unix
+
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following is not a type of constructor?
+
+
+##ans1##
+Copy constructor
+
+
+##ans2##
+Friend constructor
+
+##ans3##
+Default constructor
+
+##ans4##
+Parameterized constructor
+
+##ans5##
+
+##correct##
+2
+
+##-----Question-----##
+What  do you mean by inheritance ?
+
+The mechanishm of deriving a new class from an ------  one is called inheritance
+
+##ans1##
+new
+
+##ans2##
+small
+
+##ans3##
+ old 
+
+##ans4##
+greater 
+
+##ans5##
+bigger
+
+##correct##
+3
+
+##-----Question-----##
+Which of the following concepts means wrapping up of data and functions together?
+
+
+##ans1##
+Abstraction
+
+##ans2##
+Encapsulation
+
+##ans3##
+ Inheritance
+
+##ans4##
+Polymorphism
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following provides a reuse mechanism?
+
+
+
+##ans1##
+Abstraction
+
+
+##ans2##
+Inheritance
+
+##ans3##
+Dynamic binding
+
+
+##ans4##
+Encapsulation
+ 
+
+
+
+
+
+
+##correct##
+2
+
+
+
+##-----Question-----##
+#include<iostream.h>
+main()
+{
+	float no1,no2,sum,avg;
+	cout<<"Enter two numbers :"  ; 
+ 	cin>>no1;
+	cin>>no2;
+
+	sum=no1+no2;
+	avg=sum/2;
+	
+	cout<<"Sum=  " << sum <<"\n";
+	cout<<"Average=  " << avg <<"\n";
+}
+
+What will be the output? 
+
+##ans1##
+Enter two numbers: 7 7, sum=14, Average=7 
+
+##ans2##
+Enter two numbers: 7 7, sum=15, Average=7 
+
+
+##ans3##
+Enter two numbers: 7 7, sum=19, Average=7 
+
+
+##ans4##
+Enter two numbers: 7 7, sum=24, Average=7 
+
+##ans5##
+Enter two numbers: 7 7, sum=14, Average=8 
+
+
+##correct##
+1
+
+##-----Question-----##
+Which of the following cannot be friend?
+
+
+##ans1##
+Function
+
+##ans2##
+Class
+
+##ans3##
+Object
+
+
+##ans4##
+Operator function
+
+##ans5##
+
+
+##correct##
+3
+
+
+##-----Question-----##
+Which of the following concepts of OOPS means exposing only necessary information to client?
+
+
+##ans1##
+Encapsulation
+
+##ans2##
+Abstraction
+ 
+
+##ans3##
+Data hiding
+
+##ans4##
+Data binding
+
+##ans5##
+
+ 
+
+##correct##
+3
+
+##-----Question-----##
+cout is a/an __________ .
+
+
+##ans1##
+operator
+
+##ans2##
+function
+
+
+##ans3##
+object
+
+
+##ans4##
+macro
+
+
+##ans5##
+
+
+##correct##
+3
+
+##-----Question-----##
+What is Structure?
+
+Structure is collection of variable of----------data type.
+
+
+##ans1##
+Structure is collection of variable of one type data type.
+
+##ans2##
+Structure is collection of variable of single data type.
+
+
+##ans3##
+Structure is collection of variable of simple data type.
+
+
+##ans4##
+Structure is collection of variable of different data type.
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+List types of that can be performed data structure? 
+
+
+##ans1##
+traversing,searching,inserting,deleting,sorting
+
+##ans2##
+inserting,deleting,sorting,initating
+ 
+
+##ans3##
+traversing,searching,initating
+
+
+
+##ans4##
+inserting,deleting,sorting,destroy
+
+##ans5##
+
+##correct##
+1
+
+##-----Question-----##
+what is encapsulation?
+
+wrapping data and function in to--------------unit  ?
+
+
+##ans1##
+double
+
+##ans2##
+multiple
+
+##ans3##
+relational 
+
+##ans4##
+single
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+Give types of polymorphism?
+
+
+
+##ans1##
+default&copy
+
+
+##ans2##
+runtime&default
+
+
+##ans3##
+compile&runtime 
+
+
+##ans4##
+default&compile
+
+
+##ans5##
+
+##correct##
+3
+
+
+
+##-----Question-----##
+
+Which of the following statement is correct?
+
+
+##ans1##
+Class is an instance of object.
+
+##ans2##
+Object is an instance of a class.
+
+##ans3##
+Class is an instance of data type.
+
+##ans4##
+Object is an instance of data type.
+
+##ans5##
+
+
+##correct##
+2
+
+
+
+##-----Question-----##
+
+Which of the following access specifier is used as a default in a class definition?
+
+
+##ans1##
+protected
+
+##ans2##
+public
+
+##ans3##
+private	
+
+##ans4##
+friend
+
+##ans5##
+
+
+##correct##
+3
+
+##-----Question-----##
+Which of the following statements is correct in C++?
+
+##ans1##
+Classes cannot have data as protected members.
+
+##ans2##
+Structures can have functions as members.
+
+##ans3##
+Class members are public by default.
+
+##ans4##
+Structure members are private by default.
+
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following keyword is used to overload an operator?
+
+##ans1##
+overload
+
+##ans2##
+operator
+
+
+##ans3##
+friend
+
+##ans4##
+override
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+
+Which of the following header file includes definition of cin and cout?
+
+
+##ans1##
+istream.h
+
+##ans2##
+ostream.h
+
+##ans3##
+iomanip.h
+
+##ans4##
+iostream.h
+
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+
+Which of the following is not a type of inheritance?
+
+##ans1##
+Multiple
+
+##ans2##
+Multilevel
+
+##ans3##
+Distributive
+
+##ans4##
+Hierarchical
+
+##ans5##
+
+##correct##
+3
+##-----Question-----##
+Which of the following is the correct class of the object cout?
+
+
+##ans1##
+iostream
+
+##ans2##
+istream
+
+##ans3##
+ostream
+
+##ans4##
+ifstream
+
+##ans5##
+
+##correct##
+3
+
+##-----Question-----##
+How "Late binding" is implemented in C++?
+
+##ans1##
+Using C++ tables
+
+##ans2##
+Using Virtual tables
+
+##ans3##
+Using Indexed virtual tables 
+
+##ans4##
+Using polymorphic tables
+
+##ans5##
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following concept of oops allows compiler to insert arguments in a function call if it is not specified?
+
+
+##ans1##
+Call by value
+
+##ans2##
+Call by reference
+
+##ans3##
+Default argument
+
+##ans4##
+Call by pointer
+
+##ans5##
+
+
+##correct##
+3
+
+
+##-----Question-----##
+
+Which of the following type of class allows only one object of it to be created?
+
+
+##ans1##
+Virtual class
+
+##ans2##
+Abstract class
+
+##ans3##
+Singleton class
+
+##ans4##
+Friend class
+
+##ans5##
+
+##correct##
+3
+
+##-----Question-----##
+
+Which of the following is correct about function overloading?
+
+
+##ans1##
+The types of arguments are different.
+
+##ans2##
+
+##-----Question-----##
+Give types of polymorphism?
+
+
+
+##ans1##
+default&copy
+
+
+##ans2##
+runtime&default
+
+
+##ans3##
+compile&runtime 
+
+
+##ans4##
+default&compile
+
+
+##ans5##
+
+##correct##
+3
+##-----Question-----##
+#include<iostream.h>
+main()
+{
+	float no1,no2,sum,avg;
+	cout<<"Enter two numbers :"  ; 
+ 	cin>>no1;
+	cin>>no2;
+
+	sum=no1+no2;
+	avg=sum/2;
+	
+	cout<<"Sum=  " << sum <<"\n";
+	cout<<"Average=  " << avg <<"\n";
+}
+
+What will be the output? 
+
+##ans1##
+Enter two numbers: 7 7, sum=14, Average=7 
+
+##ans2##
+Enter two numbers: 7 7, sum=15, Average=7 
+
+
+##ans3##
+Enter two numbers: 7 7, sum=19, Average=7 
+
+
+##ans4##
+Enter two numbers: 7 7, sum=24, Average=7 
+
+##ans5##
+Enter two numbers: 7 7, sum=14, Average=8 
+
+
+##correct##
+1
+
+
+
+##-----Question-----##
+
+Which of the following statement is correct?
+
+
+##ans1##
+Class is an instance of object.
+
+##ans2##
+Object is an instance of a class.
+
+##ans3##
+Class is an instance of data type.
+
+##ans4##
+Object is an instance of data type.
+
+##ans5##
+
+
+##correct##
+2
+
+
+
+##-----Question-----##
+
+Which of the following access specifier is used as a default in a class definition?
+
+
+##ans1##
+protected
+
+##ans2##
+public
+
+##ans3##
+private	
+
+##ans4##
+friend
+
+##ans5##
+
+
+##correct##
+3
+
+##-----Question-----##
+Which of the following statements is correct in C++?
+
+##ans1##
+Classes cannot have data as protected members.
+
+##ans2##
+Structures can have functions as members.
+
+##ans3##
+Class members are public by default.
+
+##ans4##
+Structure members are private by default.
+
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following keyword is used to overload an operator?
+
+##ans1##
+overload
+
+##ans2##
+operator
+
+
+##ans3##
+friend
+
+##ans4##
+override
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+
+Which of the following header file includes definition of cin and cout?
+
+
+##ans1##
+istream.h
+
+##ans2##
+ostream.h
+
+##ans3##
+iomanip.h
+
+##ans4##
+iostream.h
+
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+
+Which of the following is not a type of inheritance?
+
+##ans1##
+Multiple
+
+##ans2##
+Multilevel
+
+##ans3##
+Distributive
+
+##ans4##
+Hierarchical
+
+##ans5##
+
+##correct##
+3
+##-----Question-----##
+Which of the following is the correct class of the object cout?
+
+
+##ans1##
+iostream
+
+##ans2##
+istream
+
+##ans3##
+ostream
+
+##ans4##
+ifstream
+
+##ans5##
+
+##correct##
+3
+
+##-----Question-----##
+How "Late binding" is implemented in C++?
+
+##ans1##
+Using C++ tables
+
+##ans2##
+Using Virtual tables
+
+##ans3##
+Using Indexed virtual tables 
+
+##ans4##
+Using polymorphic tables
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following concept of oops allows compiler to insert arguments in a function call if it is not specified?
+
+
+##ans1##
+Call by value
+
+##ans2##
+Call by reference
+
+##ans3##
+Default argument
+
+##ans4##
+Call by pointer
+
+##ans5##
+
+
+##correct##
+3
+
+
+##-----Question-----##
+
+Which of the following type of class allows only one object of it to be created?
+
+
+##ans1##
+Virtual class
+
+##ans2##
+Abstract class
+
+##ans3##
+Singleton class
+
+##ans4##
+Friend class
+
+##ans5##
+
+##correct##
+3
+
+
+How many types of inheritance ?
+
+##ans1##
+three
+
+##ans2##
+four
+
+##ans3##
+more then five
+
+##ans4##
+five
+
+##ans5##
+two
+
+##correct##
+4
+
+
+##-----Question-----##
+Give different types of inheritance ?
+
+##ans1##
+single,multiple. 
+
+##ans2##
+double,single,multiple,multilevel. 
+
+
+##ans3##
+hybrid,single,multiple,double.
+
+ 
+
+##ans4##
+multilevel,single,multiple.
+
+
+##ans5##
+single, multilevel,multiple,hierarchical,hybrid.
+
+##correct##
+5
+
+##-----Question-----##
+Give four name of object oriented language ?
+
+
+##ans1##
+c++, java , javascript,unix
+
+
+##ans2##
+c++, java , linux,.net
+
+
+##ans3##
+unix,c++, java , .net
+
+
+##ans4##
+c++, java , javascript, .net
+
+
+##ans5##
+c++, java , linux,unix
+
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following is not a type of constructor?
+
+
+##ans1##
+Copy constructor
+
+
+##ans2##
+Friend constructor
+
+##ans3##
+Default constructor
+
+##ans4##
+Parameterized constructor
+
+##ans5##
+
+##correct##
+2
+
+##-----Question-----##
+What  do you mean by inheritance ?
+
+The mechanishm of deriving a new class from an ------  one is called inheritance
+
+##ans1##
+new
+
+##ans2##
+small
+
+##ans3##
+ old 
+
+##ans4##
+greater 
+
+##ans5##
+bigger
+
+##correct##
+3
+
+##-----Question-----##
+Which of the following concepts means wrapping up of data and functions together?
+
+
+##ans1##
+Abstraction
+
+##ans2##
+Encapsulation
+
+##ans3##
+ Inheritance
+
+##ans4##
+Polymorphism
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+#include<iostream.h>
+main()
+{
+	float no1,no2,sum,avg;
+	cout<<"Enter two numbers :"  ; 
+ 	cin>>no1;
+	cin>>no2;
+
+	sum=no1+no2;
+	avg=sum/2;
+	
+	cout<<"Sum=  " << sum <<"\n";
+	cout<<"Average=  " << avg <<"\n";
+}
+
+What will be the output? 
+
+##ans1##
+Enter two numbers: 7 7, sum=14, Average=7 
+
+##ans2##
+Enter two numbers: 7 7, sum=15, Average=7 
+
+
+##ans3##
+Enter two numbers: 7 7, sum=19, Average=7 
+
+
+##ans4##
+Enter two numbers: 7 7, sum=24, Average=7 
+
+##ans5##
+Enter two numbers: 7 7, sum=14, Average=8 
+
+
+##correct##
+1
+
+##-----Question-----##
+Which of the following cannot be friend?
+
+
+##ans1##
+Function
+
+##ans2##
+Class
+
+##ans3##
+Object
+
+
+##ans4##
+Operator function
+
+##ans5##
+
+
+##correct##
+3
+
+
+##-----Question-----##
+Which of the following concepts of OOPS means exposing only necessary information to client?
+
+
+##ans1##
+Encapsulation
+
+##ans2##
+Abstraction
+ 
+
+##ans3##
+Data hiding
+
+##ans4##
+Data binding
+
+##ans5##
+
+ 
+
+##correct##
+3
+
+
+
+##-----Question-----##
+cout is a/an __________ .
+
+
+##ans1##
+operator
+
+##ans2##
+function
+
+
+##ans3##
+object
+
+
+##ans4##
+macro
+
+
+##ans5##
+
+
+##correct##
+3
+
+##-----Question-----##
+What is Structure?
+
+Structure is collection of variable of----------data type.
+
+
+##ans1##
+Structure is collection of variable of one type data type.
+
+##ans2##
+Structure is collection of variable of single data type.
+
+
+##ans3##
+Structure is collection of variable of simple data type.
+
+
+##ans4##
+Structure is collection of variable of different data type.
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+List types of that can be performed data structure? 
+
+
+##ans1##
+traversing,searching,inserting,deleting,sorting
+
+##ans2##
+inserting,deleting,sorting,initating
+ 
+
+##ans3##
+traversing,searching,initating
+
+
+
+##ans4##
+inserting,deleting,sorting,destroy
+
+##ans5##
+
+##correct##
+1
+
+##-----Question-----##
+what is encapsulation?
+
+wrapping data and function in to--------------unit  ?
+
+
+##ans1##
+double
+
+##ans2##
+multiple
+
+##ans3##
+relational 
+
+##ans4##
+single
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+Give types of polymorphism?
+
+
+
+##ans1##
+default&copy
+
+
+##ans2##
+runtime&default
+
+
+##ans3##
+compile&runtime 
+
+
+##ans4##
+default&compile
+
+
+##ans5##
+
+##correct##
+3
+
+
+
+##-----Question-----##
+
+Which of the following statement is correct?
+
+
+##ans1##
+Class is an instance of object.
+
+##ans2##
+Object is an instance of a class.
+
+##ans3##
+Class is an instance of data type.
+
+##ans4##
+Object is an instance of data type.
+
+##ans5##
+
+
+##correct##
+2
+
+
+
+##-----Question-----##
+
+Which of the following access specifier is used as a default in a class definition?
+
+
+##ans1##
+protected
+
+##ans2##
+public
+
+##ans3##
+private	
+
+##ans4##
+friend
+
+##ans5##
+
+
+##correct##
+3
+
+##-----Question-----##
+Which of the following statements is correct in C++?
+
+##ans1##
+Classes cannot have data as protected members.
+
+##ans2##
+Structures can have functions as members.
+
+##ans3##
+Class members are public by default.
+
+##ans4##
+Structure members are private by default.
+
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following keyword is used to overload an operator?
+
+
+##ans1##
+overload
+
+##ans2##
+operator
+
+
+##ans3##
+friend
+
+##ans4##
+override
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+
+Which of the following header file includes definition of cin and cout?
+
+
+##ans1##
+istream.h
+
+##ans2##
+ostream.h
+
+##ans3##
+iomanip.h
+
+##ans4##
+iostream.h
+
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+
+Which of the following is not a type of inheritance?
+
+##ans1##
+Multiple
+
+##ans2##
+Multilevel
+
+##ans3##
+Distributive
+
+##ans4##
+Hierarchical
+
+##ans5##
+
+##correct##
+3
+##-----Question-----##
+Which of the following is the correct class of the object cout?
+
+
+##ans1##
+iostream
+
+##ans2##
+istream
+
+##ans3##
+ostream
+
+##ans4##
+ifstream
+
+##ans5##
+
+##correct##
+3
+
+##-----Question-----##
+How "Late binding" is implemented in C++?
+
+##ans1##
+Using C++ tables
+
+##ans2##
+Using Virtual tables
+
+##ans3##
+Using Indexed virtual tables 
+
+##ans4##
+Using polymorphic tables
+
+##ans5##
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following concept of oops allows compiler to insert arguments in a function call if it is not specified?
+
+
+##ans1##
+Call by value
+
+##ans2##
+Call by reference
+
+##ans3##
+Default argument
+
+##ans4##
+Call by pointer
+
+##ans5##
+
+
+##correct##
+3
+
+
+##-----Question-----##
+
+Which of the following type of class allows only one object of it to be created?
+
+
+##ans1##
+Virtual class
+
+##ans2##
+Abstract class
+
+##ans3##
+Singleton class
+
+##ans4##
+Friend class
+
+##ans5##
+
+##correct##
+3
+
+##-----Question-----##
+
+Which of the following is correct about function overloading?
+
+
+##ans1##
+The types of arguments are different.
+
+##ans2##
+The order of argument is different.
+
+##ans3##
+The number of argument is same.
+
+##ans4##
+Both A and B.
+
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following is an abstract data type?
+
+##ans1##
+int
+
+##ans2##
+double
+
+##ans3##
+string
+
+##ans4##
+Class
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following concepts means determining at runtime what method to invoke?
+
+
+##ans1##
+Data hiding
+
+##ans2##
+Dynamic Typing
+
+##ans3##
+Dynamic binding
+
+##ans4##
+Dynamic loading
+
+##ans5##
+
+##correct##
+3
+##-----Question-----##
+#include<iostream.h>
+main()
+{
+	float no1,no2,sum,avg;
+	cout<<"Enter two numbers :"  ; 
+ 	cin>>no1;
+	cin>>no2;
+
+	sum=no1+no2;
+	avg=sum/2;
+	
+	cout<<"Sum=  " << sum <<"\n";
+	cout<<"Average=  " << avg <<"\n";
+}
+
+What will be the output? 
+
+##ans1##
+Enter two numbers: 7 7, sum=14, Average=7 
+
+##ans2##
+Enter two numbers: 7 7, sum=15, Average=7 
+
+
+##ans3##
+Enter two numbers: 7 7, sum=19, Average=7 
+
+
+##ans4##
+Enter two numbers: 7 7, sum=24, Average=7 
+
+##ans5##
+Enter two numbers: 7 7, sum=14, Average=8 
+
+
+##correct##
+1
+
+##-----Question-----##
+Which of the following statements is correct?
+
+##ans1##
+Base class pointer cannot point to derived class.
+
+##ans2##
+Derived class pointer cannot point to base class.
+
+##ans3##
+Pointer to derived class cannot be created.
+
+##ans4##
+Pointer to base class cannot be created.
+
+##ans5##
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following is not the member of class?
+
+
+##ans1##
+Static function
+
+##ans2##
+Friend function 
+
+##ans3##
+Const function 
+
+##ans4##
+Virtual function
+
+##correct##
+2
+ 
+
+##-----Question-----##
+List type linked list?
+
+##ans1##
+singly,doubly,default.
+ 
+
+##ans2##
+singly,doubly,link ,globaly.
+ 
+
+##ans3##
+default,doubly,circular,link. 
+
+
+##ans4##
+singly,doubly,circular,link. 
+
+
+##ans5##
+default,circular,link. 
+ 
+
+##correct##
+4
+
+##-----Question-----##
+Name of the different type of  methods of sorting?
+
+##ans1##
+bubble,heap,radix,selection,default
+
+##ans2##
+creation,bubble,heap,radix,merge
+
+
+##ans3##
+radix,selection,merge,default
+
+
+##ans4##
+bubble,heap,radix,selection,merge
+
+
+##ans5##
+heap,radix,selection,merge,copy
+ 
+
+##correct##
+4
+
+##-----Question-----##
+What is Structure?
+
+Structure is collection of variable of----------data type.
+
+
+##ans1##
+Structure is collection of variable of one type data type.
+
+##ans2##
+Structure is collection of variable of single data type.
+
+
+##ans3##
+Structure is collection of variable of simple data type.
+
+
+##ans4##
+Structure is collection of variable of different data type.
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+List types of that can be performed data structure? 
+
+
+##ans1##
+traversing,searching,inserting,deleting,sorting
+
+##ans2##
+inserting,deleting,sorting,initating
+ 
+
+##ans3##
+traversing,searching,initating
+
+
+
+##ans4##
+inserting,deleting,sorting,destroy
+
+##ans5##
+
+##correct##
+1
+
+##-----Question-----##
+what is encapsulation?
+
+wrapping data and function in to--------------unit  ?
+
+
+##ans1##
+double
+
+##ans2##
+multiple
+
+##ans3##
+relational 
+
+##ans4##
+single
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+How many types of inheritance ?
+
+##ans1##
+one
+
+##ans2##
+three
+
+##ans3##
+four
+
+##ans4##
+more then five
+
+##ans5##
+five
+##correct##
+5
+
+##-----Question-----##
+
+How many instances of an abstract class can be created?
+
+
+##ans1##
+1
+
+##ans2##
+5
+##ans3##
+13
+
+##ans4##
+0
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following concepts provides facility of using object of one class inside another class?
+
+
+##ans1##
+Encapsulation
+
+##ans2##
+Abstraction
+
+##ans3##
+Composition
+
+##ans4##
+Inheritance
+
+##ans5##
+
+
+##correct##
+3
+
+##-----Question-----##
+
+Which of the following correctly describes overloading of functions?
+
+##ans1##
+Virtual polymorphism
+
+##ans2##
+Transient polymorphism
+
+##ans3##
+ Ad-hoc polymorphism
+
+##ans4##
+Pseudo polymorphism
+
+
+##ans5##
+
+
+##correct##
+3
+##-----Question-----##
+How many types of inheritance ?
+
+##ans1##
+one
+
+##ans2##
+three
+
+##ans3##
+four
+
+##ans4##
+more then five
+
+##ans5##
+five
+
+##correct##
+5
+
+##-----Question-----##
+Which of the following cannot be used with the keyword virtual?
+
+
+##ans1##
+class
+
+##ans2##
+member functions
+ 	
+##ans3##
+constructor
+
+##ans4##
+destructor
+
+##ans5##
+
+##correct##
+3
+
+##-----Question-----##
+Which of the following ways are legal to access a class data member using this pointer?
+
+##ans1##
+this->x
+
+##ans2##
+this.x
+
+##ans3##
+*this.x
+
+##ans4##
+*this-x
+
+##ans5##
+
+
+##correct##
+1
+
+##-----Question-----##
+Which of the following are available only in the class hierarchy chain?
+
+
+##ans1##
+Public data members
+
+##ans2##
+Private data members
+
+##ans3##
+Protected data members
+
+##ans4##
+Member functions
+
+
+##ans5##
+ 
+
+##correct##
+3
+
+##-----Question-----##
+In which of the following a virtual call is resolved at the time of compilation?
+
+
+##ans1##
+From inside the destructor.
+
+##ans2##
+From inside the constructor.
+
+##ans3##
+ From inside the main().
+
+##ans4##
+Both A and B.
+
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following statements regarding inline functions is correct?
+
+
+##ans1##
+ It speeds up execution
+
+##ans2##
+It slows down execution.
+
+##ans3##
+It increases the code size.
+
+##ans4##
+Both A and C.
+
+##ans5##
+ 
+
+##correct##
+4
+
+##-----Question-----##
+Which one of the following is the correct way to declare a pure virtual function?
+
+
+##ans1##
+virtual void Display(void){0};
+
+##ans2##
+virtual void Display = 0;
+
+##ans3##
+virtual void Display(void) = 0;
+
+##ans4##
+void Display(void) = 0;
+
+##ans5##
+
+##correct##
+3
+
+
+##-----Question-----##
+How "Late binding" is implemented in C++?
+
+##ans1##
+Using C++ tables
+
+##ans2##
+Using Virtual tables
+
+##ans3##
+Using Indexed virtual tables 
+
+##ans4##
+Using polymorphic tables
+
+##ans5##
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following concept of oops allows compiler to insert arguments in a function call if it is not specified?
+
+
+##ans1##
+Call by value
+
+##ans2##
+Call by reference
+
+##ans3##
+Default argument
+
+##ans4##
+Call by pointer
+
+##ans5##
+
+
+##correct##
+3
+
+
+##-----Question-----##
+
+Which of the following type of class allows only one object of it to be created?
+
+
+##ans1##
+Virtual class
+
+##ans2##
+Abstract class
+
+##ans3##
+Singleton class
+
+##ans4##
+Friend class
+
+##ans5##
+
+##correct##
+3
+##-----Question-----##
+How many types of inheritance ?
+
+##ans1##
+three
+
+##ans2##
+four
+
+##ans3##
+more then five
+
+##ans4##
+five
+
+##ans5##
+two
+
+##correct##
+4
+
+
+##-----Question-----##
+Give different types of inheritance ?
+
+##ans1##
+single,multiple. 
+
+##ans2##
+double,single,multiple,multilevel. 
+
+
+##ans3##
+hybrid,single,multiple,double.
+
+ 
+
+##ans4##
+multilevel,single,multiple.
+
+
+##ans5##
+single, multilevel,multiple,hierarchical,hybrid.
+
+##correct##
+5
+
+##-----Question-----##
+Give four name of object oriented language ?
+
+
+##ans1##
+c++, java , javascript,unix
+
+
+##ans2##
+c++, java , linux,.net
+
+
+##ans3##
+unix,c++, java , .net
+
+
+##ans4##
+c++, java , javascript, .net
+
+
+##ans5##
+c++, java , linux,unix
+
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following is not a type of constructor?
+
+
+##ans1##
+Copy constructor
+
+
+##ans2##
+Friend constructor
+
+##ans3##
+Default constructor
+
+##ans4##
+Parameterized constructor
+
+##ans5##
+
+##correct##
+2
+
+##-----Question-----##
+What  do you mean by inheritance ?
+
+The mechanishm of deriving a new class from an ------  one is called inheritance
+
+##ans1##
+new
+
+##ans2##
+small
+
+##ans3##
+ old 
+
+##ans4##
+greater 
+
+##ans5##
+bigger
+
+##correct##
+3
+
+##-----Question-----##
+Which of the following concepts means wrapping up of data and functions together?
+
+
+##ans1##
+Abstraction
+
+##ans2##
+Encapsulation
+
+##ans3##
+ Inheritance
+
+##ans4##
+Polymorphism
+
+##ans5##
+
+
+##correct##
+2
+
+
+##-----Question-----##
+
+Which of the following statement is correct?
+
+
+##ans1##
+Class is an instance of object.
+
+##ans2##
+Object is an instance of a class.
+
+##ans3##
+Class is an instance of data type.
+
+##ans4##
+Object is an instance of data type.
+
+##ans5##
+
+
+##correct##
+2
+
+
+
+##-----Question-----##
+
+Which of the following access specifier is used as a default in a class definition?
+
+
+##ans1##
+protected
+
+##ans2##
+public
+
+##ans3##
+private	
+
+##ans4##
+friend
+
+##ans5##
+
+
+##correct##
+3
+
+##-----Question-----##
+Which of the following statements is correct in C++?
+
+##ans1##
+Classes cannot have data as protected members.
+
+##ans2##
+Structures can have functions as members.
+
+##ans3##
+Class members are public by default.
+
+##ans4##
+Structure members are private by default.
+
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following keyword is used to overload an operator?
+
+
+##ans1##
+overload
+
+##ans2##
+operator
+
+
+##ans3##
+friend
+
+##ans4##
+override
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+
+Which of the following header file includes definition of cin and cout?
+
+
+##ans1##
+istream.h
+
+##ans2##
+ostream.h
+
+##ans3##
+iomanip.h
+
+##ans4##
+iostream.h
+
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+
+Which of the following is not a type of inheritance?
+
+##ans1##
+Multiple
+
+##ans2##
+Multilevel
+
+##ans3##
+Distributive
+
+##ans4##
+Hierarchical
+
+##ans5##
+
+##correct##
+3
+##-----Question-----##
+Which of the following is the correct class of the object cout?
+
+
+##ans1##
+iostream
+
+##ans2##
+istream
+
+##ans3##
+ostream
+
+##ans4##
+ifstream
+
+##ans5##
+
+##correct##
+3
+
+##-----Question-----##
+How "Late binding" is implemented in C++?
+
+##ans1##
+Using C++ tables
+
+##ans2##
+Using Virtual tables
+
+##ans3##
+Using Indexed virtual tables 
+
+##ans4##
+Using polymorphic tables
+
+##ans5##
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following concept of oops allows compiler to insert arguments in a function call if it is not specified?
+
+
+##ans1##
+Call by value
+
+##ans2##
+Call by reference
+
+##ans3##
+Default argument
+
+##ans4##
+Call by pointer
+
+##ans5##
+
+
+##correct##
+3
+
+
+##-----Question-----##
+
+Which of the following type of class allows only one object of it to be created?
+
+
+##ans1##
+Virtual class
+
+##ans2##
+Abstract class
+
+##ans3##
+Singleton class
+
+##ans4##
+Friend class
+
+##ans5##
+
+##correct##
+3
+
+
+##-----Question-----##
+Give types of polymorphism?
+
+
+
+##ans1##
+default&copy
+
+
+##ans2##
+runtime&default
+
+
+##ans3##
+compile&runtime 
+
+
+##ans4##
+default&compile
+
+
+##ans5##
+
+##correct##
+3
+
+
+##-----Question-----##
+
+Which of the following statement is correct?
+
+
+##ans1##
+Class is an instance of object.
+
+##ans2##
+Object is an instance of a class.
+
+##ans3##
+Class is an instance of data type.
+
+##ans4##
+Object is an instance of data type.
+
+##ans5##
+
+
+##correct##
+2
+
+
+
+##-----Question-----##
+
+Which of the following access specifier is used as a default in a class definition?
+
+
+##ans1##
+protected
+
+##ans2##
+public
+
+##ans3##
+private	
+
+##ans4##
+friend
+
+##ans5##
+
+
+##correct##
+3
+
+##-----Question-----##
+Which of the following statements is correct in C++?
+
+##ans1##
+Classes cannot have data as protected members.
+
+##ans2##
+Structures can have functions as members.
+
+##ans3##
+Class members are public by default.
+
+##ans4##
+Structure members are private by default.
+
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following keyword is used to overload an operator?
+
+
+##ans1##
+overload
+
+##ans2##
+operator
+
+
+##ans3##
+friend
+
+##ans4##
+override
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+
+Which of the following header file includes definition of cin and cout?
+
+
+##ans1##
+istream.h
+
+##ans2##
+ostream.h
+
+##ans3##
+iomanip.h
+
+##ans4##
+iostream.h
+
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+
+Which of the following is not a type of inheritance?
+
+##ans1##
+Multiple
+
+##ans2##
+Multilevel
+
+##ans3##
+Distributive
+
+##ans4##
+Hierarchical
+
+##ans5##
+
+##correct##
+3
+##-----Question-----##
+Which of the following is the correct class of the object cout?
+
+
+##ans1##
+iostream
+
+##ans2##
+istream
+
+##ans3##
+ostream
+
+##ans4##
+ifstream
+
+##ans5##
+
+##correct##
+3
+
+##-----Question-----##
+How "Late binding" is implemented in C++?
+
+##ans1##
+Using C++ tables
+
+##ans2##
+Using Virtual tables
+
+##ans3##
+Using Indexed virtual tables 
+
+##ans4##
+Using polymorphic tables
+
+##ans5##
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following concept of oops allows compiler to insert arguments in a function call if it is not specified?
+
+
+##ans1##
+Call by value
+
+##ans2##
+Call by reference
+
+##ans3##
+Default argument
+
+##ans4##
+Call by pointer
+
+##ans5##
+
+
+##correct##
+3
+
+
+##-----Question-----##
+
+Which of the following type of class allows only one object of it to be created?
+
+
+##ans1##
+Virtual class
+
+##ans2##
+Abstract class
+
+##ans3##
+Singleton class
+
+##ans4##
+Friend class
+
+##ans5##
+
+##correct##
+3
+
+ How many types of inheritance ?
+
+##ans1##
+three
+
+##ans2##
+four
+
+##ans3##
+more then five
+
+##ans4##
+five
+
+##ans5##
+two
+
+##correct##
+4
+
+
+##-----Question-----##
+Give different types of inheritance ?
+
+##ans1##
+single,multiple. 
+
+##ans2##
+double,single,multiple,multilevel. 
+
+
+##ans3##
+hybrid,single,multiple,double.
+
+ 
+##ans4##
+multilevel,single,multiple.
+
+
+##ans5##
+single, multilevel,multiple,hierarchical,hybrid.
+
+##correct##
+5
+
+##-----Question-----##
+Give four name of object oriented language ?
+
+
+##ans1##
+c++, java , javascript,unix
+
+
+##ans2##
+c++, java , linux,.net
+
+
+##ans3##
+unix,c++, java , .net
+
+
+##ans4##
+c++, java , javascript, .net
+
+
+##ans5##
+c++, java , linux,unix
+
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following is not a type of constructor?
+
+
+##ans1##
+Copy constructor
+
+
+##ans2##
+Friend constructor
+
+##ans3##
+Default constructor
+
+##ans4##
+Parameterized constructor
+
+##ans5##
+
+##correct##
+2
+
+##-----Question-----##
+What  do you mean by inheritance ?
+
+The mechanishm of deriving a new class from an ------  one is called inheritance
+
+##ans1##
+new
+
+##ans2##
+small
+
+##ans3##
+ old 
+
+##ans4##
+greater 
+
+##ans5##
+bigger
+
+##correct##
+3
+
+##-----Question-----##
+Which of the following concepts means wrapping up of data and functions together?
+
+
+##ans1##
+Abstraction
+
+##ans2##
+Encapsulation
+
+##ans3##
+ Inheritance
+
+##ans4##
+Polymorphism
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+#include<iostream.h>
+main()
+{
+	float no1,no2,sum,avg;
+	cout<<"Enter two numbers :"  ; 
+ 	cin>>no1;
+	cin>>no2;
+
+	sum=no1+no2;
+	avg=sum/2;
+	
+	cout<<"Sum=  " << sum <<"\n";
+	cout<<"Average=  " << avg <<"\n";
+}
+
+What will be the output? 
+
+##ans1##
+Enter two numbers: 7 7, sum=14, Average=7 
+
+##ans2##
+Enter two numbers: 7 7, sum=15, Average=7 
+
+
+##ans3##
+Enter two numbers: 7 7, sum=19, Average=7 
+
+
+##ans4##
+Enter two numbers: 7 7, sum=24, Average=7 
+
+##ans5##
+Enter two numbers: 7 7, sum=14, Average=8 
+
+
+##correct##
+1
+
+##-----Question-----##
+Which of the following cannot be friend?
+
+
+##ans1##
+Function
+
+##ans2##
+Class
+
+##ans3##
+Object
+
+
+##ans4##
+Operator function
+
+##ans5##
+
+
+##correct##
+3
+
+
+##-----Question-----##
+Which of the following concepts of OOPS means exposing only necessary information to client?
+
+
+##ans1##
+Encapsulation
+
+##ans2##
+Abstraction
+ 
+
+##ans3##
+Data hiding
+
+##ans4##
+Data binding
+
+##ans5##
+
+ 
+
+##correct##
+3
+
+##-----Question-----##
+#include<iostream.h>
+main()
+{
+	float no1,no2,sum,avg;
+	cout<<"Enter two numbers :"  ; 
+ 	cin>>no1;
+	cin>>no2;
+
+	sum=no1+no2;
+	avg=sum/2;
+	
+	cout<<"Sum=  " << sum <<"\n";
+	cout<<"Average=  " << avg <<"\n";
+}
+
+What will be the output? 
+
+##ans1##
+Enter two numbers: 7 7, sum=14, Average=7 
+
+##ans2##
+Enter two numbers: 7 7, sum=15, Average=7 
+
+
+##ans3##
+Enter two numbers: 7 7, sum=19, Average=7 
+
+
+##ans4##
+Enter two numbers: 7 7, sum=24, Average=7 
+
+##ans5##
+Enter two numbers: 7 7, sum=14, Average=8 
+
+
+##correct##
+1
+
+##-----Question-----##
+cout is a/an __________ .
+
+
+##ans1##
+operator
+
+##ans2##
+function
+
+
+##ans3##
+object
+
+
+##ans4##
+macro
+
+
+##ans5##
+
+
+##correct##
+3
+
+##-----Question-----##
+What is Structure?
+
+Structure is collection of variable of----------data type.
+
+
+##ans1##
+Structure is collection of variable of one type data type.
+
+##ans2##
+Structure is collection of variable of single data type.
+
+
+##ans3##
+Structure is collection of variable of simple data type.
+
+
+##ans4##
+Structure is collection of variable of different data type.
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+List types of that can be performed data structure? 
+
+
+##ans1##
+traversing,searching,inserting,deleting,sorting
+
+##ans2##
+inserting,deleting,sorting,initating
+ 
+
+##ans3##
+traversing,searching,initating
+
+
+
+##ans4##
+inserting,deleting,sorting,destroy
+
+##ans5##
+
+##correct##
+1
+
+##-----Question-----##
+what is encapsulation?
+
+wrapping data and function in to--------------unit  ?
+
+
+##ans1##
+double
+
+##ans2##
+multiple
+
+##ans3##
+relational 
+
+##ans4##
+single
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+Give types of polymorphism?
+
+
+
+##ans1##
+default&copy
+
+
+##ans2##
+runtime&default
+
+
+##ans3##
+compile&runtime 
+
+
+##ans4##
+default&compile
+
+
+##ans5##
+
+##correct##
+3
+
+
+##-----Question-----##
+
+Which of the following statement is correct?
+
+
+##ans1##
+Class is an instance of object.
+
+##ans2##
+Object is an instance of a class.
+
+##ans3##
+Class is an instance of data type.
+
+##ans4##
+Object is an instance of data type.
+
+##ans5##
+
+
+##correct##
+2
+
+
+
+##-----Question-----##
+
+Which of the following access specifier is used as a default in a class definition?
+
+
+##ans1##
+protected
+
+##ans2##
+public
+
+##ans3##
+private	
+
+##ans4##
+friend
+
+##ans5##
+
+
+##correct##
+3
+
+##-----Question-----##
+Which of the following statements is correct in C++?
+
+##ans1##
+Classes cannot have data as protected members.
+
+##ans2##
+Structures can have functions as members.
+
+##ans3##
+Class members are public by default.
+
+##ans4##
+Structure members are private by default.
+
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following keyword is used to overload an operator?
+
+
+##ans1##
+overload
+
+##ans2##
+operator
+
+
+##ans3##
+friend
+
+##ans4##
+override
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+
+Which of the following header file includes definition of cin and cout?
+
+
+##ans1##
+istream.h
+
+##ans2##
+ostream.h
+
+##ans3##
+iomanip.h
+
+##ans4##
+iostream.h
+
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+
+Which of the following is not a type of inheritance?
+
+##ans1##
+Multiple
+
+##ans2##
+Multilevel
+
+##ans3##
+Distributive
+
+##ans4##
+Hierarchical
+
+##ans5##
+
+##correct##
+3
+##-----Question-----##
+Which of the following is the correct class of the object cout?
+
+
+##ans1##
+iostream
+
+##ans2##
+istream
+
+##ans3##
+ostream
+
+##ans4##
+ifstream
+
+##ans5##
+
+##correct##
+3
+
+##-----Question-----##
+How "Late binding" is implemented in C++?
+
+##ans1##
+Using C++ tables
+
+##ans2##
+Using Virtual tables
+
+##ans3##
+Using Indexed virtual tables 
+
+##ans4##
+Using polymorphic tables
+
+##ans5##
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following concept of oops allows compiler to insert arguments in a function call if it is not specified?
+
+
+##ans1##
+Call by value
+
+##ans2##
+Call by reference
+
+##ans3##
+Default argument
+
+##ans4##
+Call by pointer
+
+##ans5##
+
+
+##correct##
+3
+
+
+##-----Question-----##
+
+Which of the following type of class allows only one object of it to be created?
+
+
+##ans1##
+Virtual class
+
+##ans2##
+Abstract class
+
+##ans3##
+Singleton class
+
+##ans4##
+Friend class
+
+##ans5##
+
+##correct##
+3
+##-----Question-----##
+What  do you mean by inheritance ?
+
+The mechanishm of deriving a new class from an ------  one is called inheritance
+
+##ans1##
+new
+
+##ans2##
+small
+
+##ans3##
+ old 
+
+##ans4##
+greater 
+
+##ans5##
+bigger
+
+##correct##
+3
+
+##-----Question-----##
+Which of the following concepts means wrapping up of data and functions together?
+
+
+##ans1##
+Abstraction
+
+##ans2##
+Encapsulation
+
+##ans3##
+ Inheritance
+
+##ans4##
+Polymorphism
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following provides a reuse mechanism?
+
+
+
+##ans1##
+Abstraction
+
+
+##ans2##
+Inheritance
+
+##ans3##
+Dynamic binding
+
+
+##ans4##
+Encapsulation
+ 
+
+##ans5##
+
+
+##correct##
+2
+
+
+
+##-----Question-----##
+#include<iostream.h>
+main()
+{
+	float no1,no2,sum,avg;
+	cout<<"Enter two numbers :"  ; 
+ 	cin>>no1;
+	cin>>no2;
+
+	sum=no1+no2;
+	avg=sum/2;
+	
+	cout<<"Sum=  " << sum <<"\n";
+	cout<<"Average=  " << avg <<"\n";
+}
+
+What will be the output? 
+
+##ans1##
+Enter two numbers: 7 7, sum=14, Average=7 
+
+##ans2##
+Enter two numbers: 7 7, sum=15, Average=7 
+
+
+##ans3##
+Enter two numbers: 7 7, sum=19, Average=7 
+
+
+##ans4##
+Enter two numbers: 7 7, sum=24, Average=7 
+
+##ans5##
+Enter two numbers: 7 7, sum=14, Average=8 
+
+
+##correct##
+1
+
+##-----Question-----##
+Which of the following cannot be friend?
+
+
+##ans1##
+Function
+
+##ans2##
+Class
+
+##ans3##
+Object
+
+
+##ans4##
+Operator function
+
+##ans5##
+
+
+##correct##
+3
+
+
+##-----Question-----##
+Which of the following concepts of OOPS means exposing only necessary information to client?
+
+
+##ans1##
+Encapsulation
+
+##ans2##
+Abstraction
+ 
+
+##ans3##
+Data hiding
+
+##ans4##
+Data binding
+
+##ans5##
+
+ 
+
+##correct##
+3
+
+##-----Question-----##
+cout is a/an __________ .
+
+
+##ans1##
+operator
+
+##ans2##
+function
+
+
+##ans3##
+object
+
+
+##ans4##
+macro
+
+
+##ans5##
+
+
+##correct##
+3
+
+##-----Question-----##
+What is Structure?
+
+Structure is collection of variable of----------data type.
+
+
+##ans1##
+Structure is collection of variable of one type data type.
+
+##ans2##
+Structure is collection of variable of single data type.
+
+
+##ans3##
+Structure is collection of variable of simple data type.
+
+
+##ans4##
+Structure is collection of variable of different data type.
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+List types of that can be performed data structure? 
+
+
+##ans1##
+traversing,searching,inserting,deleting,sorting
+
+##ans2##
+inserting,deleting,sorting,initating
+ 
+
+##ans3##
+traversing,searching,initating
+
+
+
+##ans4##
+inserting,deleting,sorting,destroy
+
+##ans5##
+
+##correct##
+1
+
+##-----Question-----##
+what is encapsulation?
+
+wrapping data and function in to--------------unit  ?
+
+
+##ans1##
+double
+
+##ans2##
+multiple
+
+##ans3##
+relational 
+
+##ans4##
+single
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+Give types of polymorphism?
+
+
+
+##ans1##
+default&copy
+
+
+##ans2##
+runtime&default
+
+
+##ans3##
+compile&runtime 
+
+
+##ans4##
+default&compile
+
+
+##ans5##
+
+##correct##
+3
+
+##-----Question-----##
+what is data abstraction?
+
+##ans1##
+list of absttract attributes such as size ,weight and cost and functions operate on these attributes
+
+##ans2##
+list of absttract attributes such as  cost and functions operate on these attributes
+
+##ans3##
+list of absttract attributes such as weight and functions operate on these attributes
+
+##ans4## 
+list of absttract attributes such as size  and functions operate on these attribute
+
+##ans5##
+
+##correct##
+1
+
+##-----Question-----##
+
+Which of the following statement is correct?
+
+
+##ans1##
+Class is an instance of object.
+
+##ans2##
+Object is an instance of a class.
+
+##ans3##
+Class is an instance of data type.
+
+##ans4##
+Object is an instance of data type.
+
+##ans5##
+
+
+##correct##
+2
+
+
+
+##-----Question-----##
+
+Which of the following access specifier is used as a default in a class definition?
+
+
+##ans1##
+protected
+
+##ans2##
+public
+
+##ans3##
+private	
+
+##ans4##
+friend
+
+##ans5##
+
+
+##correct##
+3
+
+##-----Question-----##
+Which of the following statements is correct in C++?
+
+##ans1##
+Classes cannot have data as protected members.
+
+##ans2##
+Structures can have functions as members.
+
+##ans3##
+Class members are public by default.
+
+##ans4##
+Structure members are private by default.
+
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following keyword is used to overload an operator?
+
+
+##ans1##
+overload
+
+##ans2##
+operator
+
+
+##ans3##
+friend
+
+##ans4##
+override
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+
+Which of the following header file includes definition of cin and cout?
+
+
+##ans1##
+istream.h
+
+##ans2##
+ostream.h
+
+##ans3##
+iomanip.h
+
+##ans4##
+iostream.h
+
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+
+Which of the following is not a type of inheritance?
+
+##ans1##
+Multiple
+
+##ans2##
+Multilevel
+
+##ans3##
+Distributive
+
+##ans4##
+Hierarchical
+
+##ans5##
+
+##correct##
+3
+##-----Question-----##
+Which of the following is the correct class of the object cout?
+
+
+##ans1##
+iostream
+
+##ans2##
+istream
+
+##ans3##
+ostream
+
+##ans4##
+ifstream
+
+##ans5##
+
+##correct##
+3
+
+##-----Question-----##
+How "Late binding" is implemented in C++?
+
+##ans1##
+Using C++ tables
+
+##ans2##
+Using Virtual tables
+
+##ans3##
+Using Indexed virtual tables 
+
+##ans4##
+Using polymorphic tables
+
+##ans5##
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following concept of oops allows compiler to insert arguments in a function call if it is not specified?
+
+
+##ans1##
+Call by value
+
+##ans2##
+Call by reference
+
+##ans3##
+Default argument
+
+##ans4##
+Call by pointer
+
+##ans5##
+
+
+##correct##
+3
+
+
+##-----Question-----##
+
+Which of the following type of class allows only one object of it to be created?
+
+
+##ans1##
+Virtual class
+
+##ans2##
+Abstract class
+
+##ans3##
+Singleton class
+
+##ans4##
+Friend class
+
+##ans5##
+
+##correct##
+3
+
+
+##-----Question-----##
+Give types of polymorphism?
+
+
+##ans1##
+default&copy
+
+
+##ans2##
+runtime&default
+
+
+##ans3##
+compile&runtime 
+
+
+##ans4##
+default&compile
+
+
+##ans5##
+
+##correct##
+3
+
+
+##-----Question-----##
+
+Which of the following statement is correct?
+
+
+##ans1##
+Class is an instance of object.
+
+##ans2##
+Object is an instance of a class.
+
+##ans3##
+Class is an instance of data type.
+
+##ans4##
+Object is an instance of data type.
+
+##ans5##
+
+
+##correct##
+2
+
+
+
+##-----Question-----##
+
+Which of the following access specifier is used as a default in a class definition?
+
+
+##ans1##
+protected
+
+##ans2##
+public
+
+##ans3##
+private	
+
+##ans4##
+friend
+
+##ans5##
+
+
+##correct##
+3
+
+##-----Question-----##
+Which of the following statements is correct in C++?
+
+##ans1##
+Classes cannot have data as protected members.
+
+##ans2##
+Structures can have functions as members.
+
+##ans3##
+Class members are public by default.
+
+##ans4##
+Structure members are private by default.
+
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following keyword is used to overload an operator?
+
+
+##ans1##
+overload
+
+##ans2##
+operator
+
+##ans3##
+friend
+
+##ans4##
+override
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+
+Which of the following header file includes definition of cin and cout?
+
+
+##ans1##
+istream.h
+
+##ans2##
+ostream.h
+
+##ans3##
+iomanip.h
+
+##ans4##
+iostream.h
+
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+
+Which of the following is not a type of inheritance?
+
+##ans1##
+Multiple
+
+##ans2##
+Multilevel
+
+##ans3##
+Distributive
+
+##ans4##
+Hierarchical
+
+##correct##
+3
+##-----Question-----##
+Which of the following is the correct class of the object cout?
+
+
+##ans1##
+iostream
+
+##ans2##
+istream
+
+##ans3##
+ostream
+
+##ans4##
+ifstream
+
+##ans5##
+
+##correct##
+3
+
+##-----Question-----##
+How "Late binding" is implemented in C++?
+
+##ans1##
+Using C++ tables
+
+##ans2##
+Using Virtual tables
+
+##ans3##
+Using Indexed virtual tables 
+
+##ans4##
+Using polymorphic tables
+
+##ans5##
+
+##correct##
+2
+
+##-----Question-----##
+Which of the following concept of oops allows compiler to insert arguments in a function call if it is not specified?
+
+
+##ans1##
+Call by value
+
+##ans2##
+Call by reference
+
+##ans3##
+Default argument
+
+##ans4##
+Call by pointer
+
+##ans5##
+
+
+##correct##
+3
+
+
+##-----Question-----##
+
+Which of the following type of class allows only one object of it to be created?
+
+
+##ans1##
+Virtual class
+
+##ans2##
+Abstract class
+
+##ans3##
+Singleton class
+
+##ans4##
+Friend class
+
+##ans5##
+
+##correct##
+3
+
+ How many types of inheritance ?
+
+##ans1##
+three
+
+##ans2##
+four
+
+##ans3##
+more then five
+
+##ans4##
+five
+
+##ans5##
+two
+
+##correct##
+4
+
+
+##-----Question-----##
+Give different types of inheritance ?
+
+##ans1##
+single,multiple. 
+
+##ans2##
+double,single,multiple,multilevel. 
+
+
+##ans3##
+hybrid,single,multiple,double.
+ 
+
+##ans4##
+multilevel,single,multiple.
+
+
+##ans5##
+single, multilevel,multiple,hierarchical,hybrid.
+
+##correct##
+5
+
+##-----Question-----##
+Give four name of object oriented language ?
+
+
+##ans1##
+c++, java , javascript,unix
+
+
+##ans2##
+c++, java , linux,.net
+
+
+##ans3##
+unix,c++, java , .net
+
+
+##ans4##
+c++, java , javascript, .net
+
+
+##ans5##
+c++, java , linux,unix
+
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following is not a type of constructor?
+
+
+##ans1##
+Copy constructor
+
+
+##ans2##
+Friend constructor
+
+##ans3##
+Default constructor
+
+##ans4##
+Parameterized constructor
+
+##ans5##
+
+##correct##
+2
+
+##-----Question-----##
+What  do you mean by inheritance ?
+
+The mechanishm of deriving a new class from an ------  one is called inheritance
+
+##ans1##
+new
+
+##ans2##
+small
+
+##ans3##
+ old 
+
+##ans4##
+greater 
+
+##ans5##
+bigger
+
+##correct##
+3
+
+##-----Question-----##
+Which of the following concepts means wrapping up of data and functions together?
+
+
+##ans1##
+Abstraction
+
+##ans2##
+Encapsulation
+
+##ans3##
+ Inheritance
+
+##ans4##
+Polymorphism
+
+##ans5##
+
+
+##correct##
+2
+
+##-----Question-----##
+#include<iostream.h>
+main()
+{
+	float no1,no2,sum,avg;
+	cout<<"Enter two numbers :"  ; 
+ 	cin>>no1;
+	cin>>no2;
+
+	sum=no1+no2;
+	avg=sum/2;
+	
+	cout<<"Sum=  " << sum <<"\n";
+	cout<<"Average=  " << avg <<"\n";
+}
+
+What will be the output? 
+
+##ans1##
+Enter two numbers: 7 7, sum=14, Average=7 
+
+##ans2##
+Enter two numbers: 7 7, sum=15, Average=7 
+
+##ans3##
+Enter two numbers: 7 7, sum=19, Average=7 
+
+
+##ans4##
+Enter two numbers: 7 7, sum=24, Average=7 
+
+##ans5##
+Enter two numbers: 7 7, sum=14, Average=8 
+
+
+##correct##
+1
+
+##-----Question-----##
+Which of the following cannot be friend?
+
+
+##ans1##
+Function
+
+##ans2##
+Class
+
+##ans3##
+Object
+
+
+##ans4##
+Operator function
+
+##ans5##
+
+
+##correct##
+3
+
+
+##-----Question-----##
+Which of the following concepts of OOPS means exposing only necessary information to client?
+
+
+##ans1##
+Encapsulation
+
+##ans2##
+Abstraction
+ 
+
+##ans3##
+Data hiding
+
+##ans4##
+Data binding
+
+##ans5##
+
+ 
+
+##correct##
+3
+
+##-----Question-----##
+cout is a/an __________ .
+
+
+##ans1##
+operator
+
+##ans2##
+function
+
+
+##ans3##
+object
+
+
+##ans4##
+macro
+
+
+##ans5##
+
+
+##correct##
+3
+
+##-----Question-----##
+What is Structure?
+
+Structure is collection of variable of----------data type.
+
+
+##ans1##
+Structure is collection of variable of one type data type.
+
+##ans2##
+Structure is collection of variable of single data type.
+
+
+##ans3##
+Structure is collection of variable of simple data type.
+
+
+##ans4##
+Structure is collection of variable of different data type.
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+List types of that can be performed data structure? 
+
+
+##ans1##
+traversing,searching,inserting,deleting,sorting
+
+##ans2##
+inserting,deleting,sorting,initating
+ 
+
+##ans3##
+traversing,searching,initating
+
+##ans4##
+inserting,deleting,sorting,destroy
+
+##ans5##
+
+##correct##
+1
+
+
+##correct##
+4
+
+##-----Question-----##
+ How many types of inheritance ?
+
+##ans1##
+three
+
+##ans2##
+four
+
+##ans3##
+more then five
+
+##ans4##
+five
+
+##ans5##
+two
+##correct##
+4
+
+
+##-----Question-----##
+Give different types of inheritance ?
+
+##ans1##
+single,multiple. 
+
+
+
+##ans2##
+double,single,multiple,multilevel. 
+
+
+
+##ans3##
+hybrid,single,multiple,double.
+
+ 
+
+##ans4##
+multilevel,single,multiple.
+
+##ans5##
+single, multilevel,multiple,hierarchical,hybrid.
+
+  
+
+##correct##
+5
+
+##-----Question-----##
+Give four name of object oriented language ?
+
+
+##ans1##
+c++, java , javascript,unix
+
+
+##ans2##
+c++, java , linux,.net
+
+
+##ans3##
+unix,c++, java , .net
+
+
+##ans4##
+c++, java , javascript, .net
+
+
+##ans5##
+c++, java , linux,unix
+
+
+##correct##
+4
+
+##-----Question-----##
+What will be the output when following code runs? 
+#include <iostream.h>
+void main()
+{
+	char x,y;
+ 	char*ptr;
+	x='c';
+	ptr=&x;
+	y=*ptr;
+	cout<<"Value of   x=" << x <<endl;
+	cout<<"Pointer value =" << y << endl; 
+
+} 
+##ans1##
+Value of x =b,Pointer value =b
+
+
+##ans2##
+Value of x = c,Pointer value = c
+
+
+##ans3##
+Value of x = x,Pointer value = y
+
+
+##ans4##
+Value of x = x,Pointer value = p
+
+
+##ans5##
+Value of x = y,Pointer value = x
+
+
+##correct##
+2
+
+##-----Question-----##
+What  do you mean by inheritance ?
+
+The mechanishm of deriving a new class from an ------  one is called inheritance
+
+##ans1##
+new
+
+
+##ans2##
+small
+
+
+##ans3##
+ old  
+
+
+
+##ans4##
+greater 
+
+
+##ans5##
+bigger
+
+##correct##
+3
+
+##-----Question-----##
+How many type of constructor ?
+
+##ans1##
+5 
+
+##ans2##
+8 
+
+##ans3##
+3 
+
+##ans4##
+more then 6 
+
+##ans5##
+2 
+
+##correct##
+1
+
+##-----Question-----##
+List type of constructor ? 
+
+##ans1##
+public,parameterized,default,copy.
+
+
+##ans2##
+public,parameterized,default,destroy.
+
+
+##ans3##
+default,copy,dynamic.
+
+
+##ans4##
+public,parameterized,default,copy,dynamic.
+ 
+
+##ans5##
+public,global,default,copy,dynamic.
+
+
+
+##correct##
+4
+
+
+
+##-----Question-----##
+#include<iostream.h>
+main()
+{
+	float no1,no2,sum,avg;
+	cout<<"Enter two numbers :"  ; 
+ 	cin>>no1;
+	cin>>no2;
+
+	sum=no1+no2;
+	avg=sum/2;
+	
+	cout<<"Sum=  " << sum <<"\n";
+	cout<<"Average=  " << avg <<"\n";
+}
+
+What will be the output? 
+
+##ans1##
+Enter two numbers: 7 7, sum=14, Average=7 
+
+##ans2##
+Enter two numbers: 7 7, sum=15, Average=7 
+
+
+##ans3##
+Enter two numbers: 7 7, sum=19, Average=7 
+
+
+##ans4##
+Enter two numbers: 7 7, sum=24, Average=7 
+
+##ans5##
+Enter two numbers: 7 7, sum=14, Average=8 
+
+
+##correct##
+1
+
+##-----Question-----##
+How many type of link list? 
+
+
+##ans1##
+5 
+
+##ans2##
+2
+
+##ans3##
+4
+
+##ans4##
+6
+
+##ans5##
+more then six
+
+##correct##
+3
+
+
+##-----Question-----##
+List type linked list?
+
+##ans1##
+singly,doubly,default.
+ 
+
+##ans2##
+singly,doubly,link ,globaly.
+ 
+
+##ans3##
+default,doubly,circular,link. 
+
+
+##ans4##
+singly,doubly,circular,link. 
+
+
+##ans5##
+default,circular,link. 
+ 
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following ways are legal to access a class data member using this pointer?
+
+##ans1##
+this->x
+
+##ans2##
+this.x
+
+##ans3##
+*this.x
+
+##ans4##
+*this-x
+
+##ans5##
+
+
+##correct##
+1
+
+##-----Question-----##
+Which of the following are available only in the class hierarchy chain?
+
+
+##ans1##
+Public data members
+
+##ans2##
+Private data members
+
+##ans3##
+Protected data members
+
+##ans4##
+Member functions
+
+##correct##
+3
+
+##-----Question-----##
+In which of the following a virtual call is resolved at the time of compilation?
+
+
+##ans1##
+From inside the destructor.
+
+##ans2##
+From inside the constructor.
+
+##ans3##
+ From inside the main().
+
+##ans4##
+Both A and B.
+
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following statements regarding inline functions is correct?
+
+
+##ans1##
+ It speeds up execution
+
+##ans2##
+It slows down execution.
+
+##ans3##
+It increases the code size.
+
+##ans4##
+Both A and C.
+
+##ans5##
+ 
+
+##correct##
+4
+
+##-----Question-----##
+Which one of the following is the correct way to declare a pure virtual function?
+
+
+##ans1##
+virtual void Display(void){0};
+
+##ans2##
+virtual void Display = 0;
+
+##ans3##
+virtual void Display(void) = 0;
+
+##ans4##
+void Display(void) = 0;
+
+##ans5##
+
+##correct##
+3
+
+
+
+##-----Question-----##
+What will happen if a class is not having any name?
+
+##ans1##
+It cannot have a destructor.
+
+##ans2##
+It cannot have a constructor.
+
+##ans3##
+It is not allowed.
+
+##ans4##
+Both A and B.
+
+
+##ans5##
+
+
+##correct##
+4
+##-----Question-----##
+Which inheritance type is used in the class given below?
+class A : public X, public Y
+{}
+
+
+
+##ans1##
+Multilevel inheritance
+
+##ans2##
+Multiple inheritance
+
+##ans3##
+Hybrid inheritance
+
+##ans4##
+Hierarchical Inheritance
+
+##ans5##
+
+##correct##
+2
+##-----Question-----##
+
+Which of the following is an invalid visibility label while inheriting a class?
+
+##ans1##
+public
+
+##ans2##
+private
+
+##ans3##
+protected
+
+##ans4##
+friend
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+Which one of the following options is correct?
+
+##ans1##
+Friend function can access public data members of the class. 
+
+##ans2##
+Friend function can access protected data members of the class.
+
+##ans3## 
+Friend function can access private data members of the class.
+
+##ans4##
+All of the above.
+
+##ans5##
+ 
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following is used to make an abstract class?
+
+##ans1##
+Declaring it abstract using static keyword.
+
+##ans2##
+Declaring it abstract using virtual keyword.
+
+##ans3##
+Making at least one member function as virtual function.
+
+##ans4##
+Making at least one member function as pure virtual function.
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+What is correct about the static data member of a class?
+
+##ans1##
+A static member function can access only static data members of a class.
+
+##ans2##
+A static data member is shared among all the object of the class.
+
+##ans3##
+A static data member is shared among all the object of the class.
+
+##ans4##
+Both A and B.
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+Which of the following statement is correct?
+
+##ans1##
+Class is an instance of object.
+
+##ans2##
+Object is an instance of a class.
+
+##ans3##
+Class is an instance of data type.
+
+##ans4##
+Object is an instance of data type.
+
+##ans5##
+
+
+##correct##
+2
+##-----Question-----##
+Name of the different type of  methods of sorting?
+
+##ans1##
+bubble,heap,radix,selection,default
+
+##ans2##
+creation,bubble,heap,radix,merge
+
+
+##ans3##
+radix,selection,merge,default
+
+
+##ans4##
+bubble,heap,radix,selection,merge
+
+
+##ans5##
+heap,radix,selection,merge,copy
+ 
+
+##correct##
+4
+
+##-----Question-----##
+What is Structure?
+
+Structure is collection of variable of----------data type.
+
+
+##ans1##
+Structure is collection of variable of one type data type.
+
+##ans2##
+Structure is collection of variable of single data type.
+
+
+##ans3##
+Structure is collection of variable of simple data type.
+
+
+##ans4##
+Structure is collection of variable of different data type.
+
+##ans5##
+
+##correct##
+4
+
+##-----Question-----##
+List types of that can be performed data structure? 
+
+
+##ans1##
+traversing,searching,inserting,deleting,sorting
+
+##ans2##
+inserting,deleting,sorting,initating
+ 
+
+##ans3##
+traversing,searching,initating
+
+
+
+##ans4##
+inserting,deleting,sorting,destroy
+
+##ans5##
+
+##correct##
+1
+
+##-----Question-----##
+what is encapsulation?
+
+wrapping data and function in to--------------unit  ?
+
+
+##ans1##
+double
+
+##ans2##
+multiple
+
+##ans3##
+relational 
+
+##ans4##
+single
+
+##ans5##
+
+
+##correct##
+4
+
+##-----Question-----##
+Give types of polymorphism?
+
+
+
+##ans1##
+default&copy
+
+
+##ans2##
+runtime&default
+
+
+##ans3##
+compile&runtime 
+
+
+##ans4##
+default&compile
+
+
+##ans5##
+
+##correct##
+3
+
+##-----Question-----##
+#include<iostream.h>
+main()
+{
+	float no1,no2,sum,avg;
+	cout<<"Enter two numbers :"  ; 
+ 	cin>>no1;
+	cin>>no2;
+
+	sum=no1+no2;
+	avg=sum/2;
+	
+	cout<<"Sum=  " << sum <<"\n";
+	cout<<"Average=  " << avg <<"\n";
+}
+
+What will be the output? 
+
+##ans1##
+Enter two numbers: 7 7, sum=14, Average=7 
+
+
+##ans2##
+Enter two numbers: 7 7, sum=15, Average=7 
+
+
+##ans3##
+Enter two numbers: 7 7, sum=19, Average=7 
+
+
+##ans4##
+Enter two numbers: 7 7, sum=24, Average=7 
+
+##ans5##
+Enter two numbers: 7 7, sum=14, Average=8 
+
+
+##correct##
+1
+
+
+
+
+
+
+
